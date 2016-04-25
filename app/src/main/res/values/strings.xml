@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shut Up And Take Your Pictures</string>
+    <string name="new_event_edit_text">Event Name</string>
+    <string name="button_create">Create</string>
+</resources>
